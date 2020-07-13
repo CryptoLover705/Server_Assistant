@@ -1,7 +1,7 @@
 # Server_Assistant
 
 Feel free to add a star ⭐ to the repository to promote the project!
-
+ 
 Features
 Complete Bot
 Server Assistant offers (non-exhaustive list):
