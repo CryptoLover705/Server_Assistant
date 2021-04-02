@@ -1,6 +1,6 @@
 # Server_Assistant
 
-Feel free to add a star ⭐ to the repository to promote the project!
+Feel free to add a star ⭐ to the repository to promote the project! 
  
 Features
 Complete Bot
